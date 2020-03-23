@@ -1,0 +1,6 @@
+# Dev-time
+pipdeptree
+pytest
+
+# Runtime
+pyyaml
